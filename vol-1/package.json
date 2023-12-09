@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-base",
+  "version": "1.0.0",
+  "description": "Codigo que muestra los conocimientos esenciales de nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiCHP/nodejs_base.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "javascript",
+    "essentials"
+  ],
+  "author": "Santiago Castellano Hernández",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiCHP/nodejs_base/issues"
+  },
+  "homepage": "https://github.com/SantiCHP/nodejs_base#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
